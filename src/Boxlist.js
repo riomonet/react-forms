@@ -1,7 +1,9 @@
 import React from 'react'
 
-
-let BoxList = (props) => {
+const  BoxList = (props) => {
 
     return <div>Boxlist here</div>
 }
+
+
+export default BoxList;

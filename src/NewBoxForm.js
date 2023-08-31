@@ -8,3 +8,5 @@ let NewBoxForm = (props) => {
 
     
 }
+
+export default NewBoxForm
